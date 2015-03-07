@@ -16,8 +16,6 @@ import ConfigParser
 Config = ConfigParser.ConfigParser()
 Config.read("../config.ini")
 
-## Saving to Pickle database
-dir_out =   Config.get("Directory",'database')
 fn_db =     Config.get("Filename",'database')
 fn_meta =   Config.get("Filename",'meta')
 
