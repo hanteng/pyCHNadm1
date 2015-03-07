@@ -16,14 +16,11 @@ import ConfigParser
 Config = ConfigParser.ConfigParser()
 Config.read("../config.ini")
 
-fn_db =     Config.get("Filename",'database')
-fn_meta =   Config.get("Filename",'meta')
-
 CHNmapping=pd.read_pickle(os.path.join(_ROOT, "mapping.pkl")) #mapping['ISO2']['TWN']
 CHNmapping.set_index("geocode")
-fn_output=os.path.join(_ROOT,fn_db)
+fn_output=os.path.join(_ROOT,"size.pkl")
 CHNp=pd.read_pickle(fn_output)
-fn_output=os.path.join(_ROOT,fn_meta)
+fn_output=os.path.join(_ROOT,"meta.pkl")
 CHNmeta=pd.read_pickle(fn_output)
 
 CHNyearl={}  #year last for avialable data
