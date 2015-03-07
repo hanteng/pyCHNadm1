@@ -1,0 +1,32 @@
+geocode,name_used,name_gdam,name_zhs_one,name_zhs_short,name_zhs,FIPS,ISO,GC,8EZ,3ER
+CN-11,Beijing,Beijing,京,北京,北京市,CH22,CN-11,GC_HB,8EZ_Coastal_Northern,3ER_Eastern
+CN-12,Tianjin,Tianjin,津,天津,天津市,CH28,CN-12,GC_HB,8EZ_Coastal_Northern,3ER_Eastern
+CN-13,Hebei,Hebei,冀,河北,河北省,CH10,CN-13,GC_HB,8EZ_Coastal_Northern,3ER_Eastern
+CN-14,Shanxi,Shanxi,晉,山西,山西省,CH24,CN-14,GC_HB,8EZ_Middle_Yellow,3ER_Central
+CN-15,Inner Mongolia,Nei Mongol,蒙,内蒙古,内蒙古自治区,CH20,CN-15,GC_HB,8EZ_Middle_Yellow,3ER_Western
+CN-21,Liaoning,Liaoning,遼,辽宁,辽宁省,CH19,CN-21,GC_DB,8EZ_DB,3ER_Eastern
+CN-22,Jilin,Jilin,吉,吉林,吉林省,CH05,CN-22,GC_DB,8EZ_DB,3ER_Central
+CN-23,Heilongjiang,Heilongjiang,黑,黑龙江,黑龙江省,CH08,CN-23,GC_DB,8EZ_DB,3ER_Central
+CN-31,Shanghai,Shanghai,滬,上海,上海市,CH23,CN-31,GC_HD,8EZ_Coastal_Eastern,3ER_Eastern
+CN-32,Jiangsu,Jiangsu,蘇,江苏,江苏省,CH04,CN-32,GC_HD,8EZ_Coastal_Eastern,3ER_Eastern
+CN-33,Zhejiang,Zhejiang,浙,浙江,浙江省,CH02,CN-33,GC_HD,8EZ_Coastal_Eastern,3ER_Eastern
+CN-34,Anhui,Anhui,皖,安徽,安徽省,CH01,CN-34,GC_HD,8EZ_Middle_Yangtze,3ER_Central
+CN-35,Fujian,Fujian,閩,福建,福建省,CH07,CN-35,GC_HD,8EZ_Coastal_Southern,3ER_Eastern
+CN-36,Jiangxi,Jiangxi,贛,江西,江西省,CH03,CN-36,GC_HD,8EZ_Middle_Yangtze,3ER_Central
+CN-37,Shandong,Shandong,魯,山东,山东省,CH25,CN-37,GC_HD,8EZ_Coastal_Northern,3ER_Eastern
+CN-41,Henan,Henan,豫,河南,河南省,CH09,CN-41,GC_ZN,8EZ_Middle_Yellow,3ER_Central
+CN-42,Hubei,Hubei,鄂,湖北,湖北省,CH12,CN-42,GC_ZN,8EZ_Middle_Yangtze,3ER_Central
+CN-43,Hunan,Hunan,湘,湖南,湖南省,CH11,CN-43,GC_ZN,8EZ_Middle_Yangtze,3ER_Central
+CN-44,Guangdong,Guangdong,粵,广东,广东省,CH30,CN-44,GC_ZN,8EZ_Coastal_Southern,3ER_Eastern
+CN-45,Guangxi,Guangxi,桂,广西,广西壮族自治区,CH16,CN-45,GC_ZN,8EZ_SouthWest,3ER_Western
+CN-46,Hainan,Hainan,瓊,海南,海南省,CH31,CN-46,GC_ZN,8EZ_Coastal_Southern,3ER_Eastern
+CN-50,Chongqing,Chongqing,渝,重庆,重庆市,CH33,CN-50,GC_XN,8EZ_SouthWest,3ER_Western
+CN-51,Sichuan,Sichuan,川,四川,四川省,CH32,CN-51,GC_XN,8EZ_SouthWest,3ER_Western
+CN-52,Guizhou,Guizhou,黔,贵州,贵州省,CH18,CN-52,GC_XN,8EZ_SouthWest,3ER_Western
+CN-53,Yunnan,Yunnan,滇,云南,云南省,CH29,CN-53,GC_XN,8EZ_SouthWest,3ER_Western
+CN-54,Tibet,Xizang,藏,西藏,西藏自治区,CH14,CN-54,GC_XN,8EZ_NorthWest,3ER_Western
+CN-61,Shaanxi,Shaanxi,陝,陕西,陕西省,CH26,CN-61,GC_XB,8EZ_Middle_Yellow,3ER_Western
+CN-62,Gansu,Gansu,甘,甘肃,甘肃省,CH15,CN-62,GC_XB,8EZ_NorthWest,3ER_Western
+CN-63,Qinghai,Qinghai,青,青海,青海省,CH06,CN-63,GC_XB,8EZ_NorthWest,3ER_Western
+CN-64,Ningxia,Ningxia Hui,寧,宁夏,宁夏回族自治区,CH21,CN-64,GC_XB,8EZ_NorthWest,3ER_Western
+CN-65,Xinjiang,Xinjiang Uygur,新,新疆,新疆维吾尔自治区,CH13,CN-65,GC_XB,8EZ_NorthWest,3ER_Western

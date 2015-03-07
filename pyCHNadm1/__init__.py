@@ -8,5 +8,5 @@ from __future__ import (absolute_import, division, print_function,
 # version of ggplot.
 __version__ = '0.0.0.1'
 
-from .sizedb import (LP, PPPGDP, IPop, sizec, sizep, meta, description, mapping)
+from .sizedb import (CHNmapping, CHNp, CHNmeta, CHNyearl, CHNsize)
 
