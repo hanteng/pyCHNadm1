@@ -17,7 +17,7 @@ Config = ConfigParser.ConfigParser()
 Config.read("../config.ini")
 
 CHNmapping=pd.read_pickle(os.path.join(_ROOT, "mapping.pkl")) #mapping['ISO2']['TWN']
-CHNmapping.set_index("geocode")
+CHNmapping=CHNmapping.set_index("geocode")
 fn_output=os.path.join(_ROOT,"size.pkl")
 CHNp=pd.read_pickle(fn_output)
 fn_output=os.path.join(_ROOT,"meta.pkl")
