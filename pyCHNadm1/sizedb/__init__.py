@@ -49,13 +49,4 @@ CN-11    19500.56  1556   2115               480.4           1186.8
 CN-12    14370.16   866   1472               188.4            353.9   
 CN-13    28301.41  3389   7333              1031.6           2049.3   
 
-
-#sizec=sizep.loc[["IPop","LP","PPPGDP"],:,2013].join(sizep.loc[["IH"],:,2012]).join(sizep.loc[["IPv4"],:,2015])
-
-LP=sizec['LP']#or sizep['LP'][2013] or  sizep.loc['LP',:,2013]
-PPPGDP=sizec['PPPGDP']#or sizep['PPPGDP'][2013]
-IPop=sizec['IPop']#or sizep['IPop'][2013]
-IH=sizec['IH']#or sizep['IH'][2012]
-IPv4=sizec['IPv4']#or sizep['IPv4'][2015]
-
 '''
