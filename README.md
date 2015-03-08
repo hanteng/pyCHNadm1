@@ -89,7 +89,7 @@ g.add_legend()              # Add legend
 plt.show()
 
 ```
-![Using PairGrid to explore the relationship between three selected indicators](https://raw.githubusercontent.com/hanteng/pyCHNadm1/master/pyCHNadm1/CHN_PairGrid_GDP_IPop_websites.png)
+![Using PairGrid to explore the relationship between three selected indicators](CHN_PairGrid_GDP_IPop_websites.png)
 
 3. Then execute the following codes to focusing on the relationship between the number of websites (y-axis) to GDP (x-axis):
 
